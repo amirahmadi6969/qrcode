@@ -64,7 +64,7 @@ async def handle_protocol_choice(update: Update, context: ContextTypes.DEFAULT_T
 
 # اجرای ربات
 
-TOKEN = "7994165255:AAHPreh7RuCnfFm-zIqAsHiTe0u6-ZtG21M"
+TOKEN = "7967348408:AAHkWt6ckBbgepcJtgt4_1meJQPNJt18aC8"
 
 app = ApplicationBuilder().token(TOKEN).build()
 
